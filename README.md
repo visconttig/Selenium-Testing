@@ -4,7 +4,7 @@ This repository contains an automated test suite project designed to demonstrate
 
 The project showcases best practices in test automation, including structure, execution, and reporting.
 
-![Image depicting a robotic arm in front of a computer screen](https://visconttig.com/images/automated-testing2.jpg)
+![Image depicting a robotic arm in front of a computer screen](https://visconttig.com/images/automated-testing2.png)
 
 ## Table of Contents
 
